@@ -2,8 +2,7 @@ package org.example.entities.dao;
 
 import org.example.entities.Planet;
 
-import org.example.entities.dao.PlanetCrudService;
-import org.example.entities.postgresdb.PostgresDBInitService;
+import org.example.postgresdb.PostgresDBInitService;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

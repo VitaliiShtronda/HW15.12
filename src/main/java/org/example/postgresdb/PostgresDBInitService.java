@@ -1,4 +1,4 @@
-package org.example.entities.postgresdb;
+package org.example.postgresdb;
 
 import org.flywaydb.core.Flyway;
 

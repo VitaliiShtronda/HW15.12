@@ -1,9 +1,8 @@
 package org.example.entities.dao;
 
 import org.example.entities.Client;
-import org.example.entities.dao.ClientCrudService;
 
-import org.example.entities.postgresdb.PostgresDBInitService;
+import org.example.postgresdb.PostgresDBInitService;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 

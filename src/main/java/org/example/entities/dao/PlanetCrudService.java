@@ -3,7 +3,7 @@ package org.example.entities.dao;
 
 import org.example.entities.Planet;
 
-import org.example.entities.hibernate.HibernateUtils;
+import org.example.hibernate.HibernateUtils;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
